@@ -33,9 +33,6 @@
 
   "//": "Configuration docs: https://librelane.readthedocs.io/en/latest/reference/configuration.html",
 
-  "//": "LibreLane uses new constraints during placement, routing, and signoff:"
-  "PNR_SDC_FILE": "dir::user.sdc",
-  "SIGNOFF_SDC_FILE": "dir::user.sdc"
 
   "//": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
   "//": "!!! DO NOT CHANGE ANYTHING BELOW THIS POINT !!!",
