@@ -7,8 +7,6 @@ You can also include images in this folder and reference them in the markdown. E
 512 kb in size, and the combined size of all images must be less than 1 MB.
 -->
 
-<img width="2677" height="1127" alt="ARBITER_PUF" src="https://github.com/user-attachments/assets/25fa9c2d-6850-4a85-8028-3b0859fd99fa" />
-
 ## How it works
 
 This is a physically unclonable function (PUF).
@@ -37,6 +35,8 @@ The clock goes through a DFF divider before launching the edge to keep the clock
 Using a clock allows to test the reliability of the puf, as it should always output the same response for the different clock edges.
 
 ## How to test
+
+<img width="2677" height="1127" alt="ARBITER_PUF" src="https://github.com/user-attachments/assets/25fa9c2d-6850-4a85-8028-3b0859fd99fa" />
 
 1. Set the `clock` to 1 Hz (it's divided by 2 in the circuit). Changing the `clock` will change the racing edge frequency.
 2. No reset required.
