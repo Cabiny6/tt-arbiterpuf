@@ -36,7 +36,7 @@ Using a clock allows to test the reliability of the puf, as it should always out
 
 ## How to test
 
-<img width="2677" height="1127" alt="ARBITER_PUF" src="https://github.com/user-attachments/assets/25fa9c2d-6850-4a85-8028-3b0859fd99fa" />
+![Arbiter PUF Architecture](arbiter_puf.png)
 
 1. Set the `clock` to 1 Hz (it's divided by 2 in the circuit). Changing the `clock` will change the racing edge frequency.
 2. No reset required.
