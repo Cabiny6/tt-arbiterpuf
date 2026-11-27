@@ -7,6 +7,8 @@ You can also include images in this folder and reference them in the markdown. E
 512 kb in size, and the combined size of all images must be less than 1 MB.
 -->
 
+<img width="2677" height="1127" alt="ARBITER_PUF" src="https://github.com/user-attachments/assets/25fa9c2d-6850-4a85-8028-3b0859fd99fa" />
+
 ## How it works
 
 This is a physically unclonable function (PUF).
